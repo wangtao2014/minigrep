@@ -1,4 +1,5 @@
 # 总结
+- 执行：CASE_INSENSITIVE=1 cargo run to poem.txt > output.txt
 
 - 二进制程序关注点分离的惯例
     - 将程序拆分为main.rs 和lib.rs 将业务逻辑放入到 lib.rs
